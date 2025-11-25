@@ -12,6 +12,7 @@
 		"lint": "prettier --check . && eslint ."
 	},
 	"devDependencies": {
+		"@sveltejs/adapter-cloudflare": "^4.0.0",
 		"@inlang/paraglide-js": "^2.5.0",
 		"@poppanator/sveltekit-svg": "^5.0.1",
 		"@sveltejs/adapter-static": "^3.0.10",
